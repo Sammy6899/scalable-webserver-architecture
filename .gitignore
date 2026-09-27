@@ -1,0 +1,41 @@
+# Compiled binaries, objects, and libraries (C / C++)
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+bin/
+build/
+out/
+
+# Executables
+server
+client
+benchmark_runner
+*.exe
+*.out
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Logs and runtime artifacts
+*.log
+*.pid
+
+# Benchmark and testing temporary outputs
+benchmarks/tmp/
+benchmarks/*.raw
+*.prof
+gmon.out
+perf.data*
