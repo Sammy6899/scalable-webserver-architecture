@@ -60,6 +60,7 @@ This project outlines an optimized architectural framework designed to handle **
 
 ---
 
-## 📄 License
+## 👤 Author & Acknowledgments
 
-Distributed under the MIT License. See `LICENSE` for more information.
+- **Developer:** [Sammy6899](https://github.com/Sammy6899)
+- **Course:** CSE340 - Computer Architecture
